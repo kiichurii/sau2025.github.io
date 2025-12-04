@@ -1,7 +1,7 @@
 # sau-2025
-Project: alien stage
+Project: my top cs2
 
-This project is a simple webpage about alien stage by VIVINOS.
+This project is a simple webpage about cs2.
 The page includes:
 • a header and navigation menu
 • an "About" section
