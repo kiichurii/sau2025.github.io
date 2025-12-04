@@ -10,7 +10,7 @@ The page includes:
 • a footer with media licenses
 
 Used tags:
-<!DOCTYPE html>, <html>, <head>, <meta>, <title>, <link>, <header>, <nav>, <a>, <main>, <section>, <h1>–<h2>, <p>, <table>, <caption>, <tr>, <th>, <td>, <img>, <footer>
+!DOCTYPE html, html, head, meta, title, link, header, nav, a, main, section, h1, h2, p, table, caption, tr, th, td, img, footer
 
 Used CSS:
 • external stylesheet (styles.css)
